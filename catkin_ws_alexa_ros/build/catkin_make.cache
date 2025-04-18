@@ -1,0 +1,2 @@
+alexa_ros:kuka_kr5:robot_ie416:robot_math:robotic_arm
+-DCATKIN_DEVEL_PREFIX=/home/robot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robot/catkin_ws/install -G Unix Makefiles

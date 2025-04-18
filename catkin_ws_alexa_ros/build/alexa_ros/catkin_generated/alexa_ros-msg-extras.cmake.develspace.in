@@ -1,0 +1,2 @@
+set(alexa_ros_MESSAGE_FILES "/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskAction.msg;/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskActionGoal.msg;/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskActionResult.msg;/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskActionFeedback.msg;/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskGoal.msg;/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskResult.msg;/home/robot/catkin_ws/devel/share/alexa_ros/msg/AlexaTaskFeedback.msg")
+set(alexa_ros_SERVICE_FILES "")
